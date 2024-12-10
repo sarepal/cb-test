@@ -14,6 +14,8 @@ credits: true
 
 ## About the Collection
 
+This is the greatest site of all time. I said what I said.
+
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
